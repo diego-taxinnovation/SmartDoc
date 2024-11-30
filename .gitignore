@@ -1,0 +1,5 @@
+# Ignorar todas las carpetas __pycache__
+__pycache__/
+
+# Ignorar archivos .DS_Store (macOS)
+.DS_Store
